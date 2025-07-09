@@ -803,12 +803,6 @@ watch -n 1 "ps aux | grep pass"
 
 ### Sudo and SUID Exploitation
 
-#### **Checking Sudo Permissions**
-
-```bash
-sudo -l  
-```
-
 #### **Finding SUID Binaries**
 
 ```bash
